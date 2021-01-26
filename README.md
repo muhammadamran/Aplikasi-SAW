@@ -1,2 +1,4 @@
-# Aplikasi-SAW
-Sistem Pendukung Keputusan
+Create By : Muhammad Amran
+
+---Contact---
+amranhakimsiregar@gmail.com
